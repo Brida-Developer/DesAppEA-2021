@@ -1,0 +1,10 @@
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana03\Lab03\Login\bin\Debug\Login.exe.config
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana03\Lab03\Login\bin\Debug\Login.exe
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana03\Lab03\Login\bin\Debug\Login.pdb
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana03\Lab03\Login\obj\Debug\Login.Form1.resources
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana03\Lab03\Login\obj\Debug\Login.MDIParent1.resources
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana03\Lab03\Login\obj\Debug\Login.Properties.Resources.resources
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana03\Lab03\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana03\Lab03\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana03\Lab03\Login\obj\Debug\Login.exe
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana03\Lab03\Login\obj\Debug\Login.pdb

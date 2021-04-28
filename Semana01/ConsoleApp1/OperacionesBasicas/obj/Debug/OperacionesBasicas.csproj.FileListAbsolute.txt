@@ -1,0 +1,10 @@
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana01\ConsoleApp1\OperacionesBasicas\bin\Debug\OperacionesBasicas.exe.config
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana01\ConsoleApp1\OperacionesBasicas\bin\Debug\OperacionesBasicas.exe
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana01\ConsoleApp1\OperacionesBasicas\bin\Debug\OperacionesBasicas.pdb
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana01\ConsoleApp1\OperacionesBasicas\obj\Debug\OperacionesBasicas.csprojAssemblyReference.cache
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana01\ConsoleApp1\OperacionesBasicas\obj\Debug\OperacionesBasicas.Form1.resources
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana01\ConsoleApp1\OperacionesBasicas\obj\Debug\OperacionesBasicas.Properties.Resources.resources
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana01\ConsoleApp1\OperacionesBasicas\obj\Debug\OperacionesBasicas.csproj.GenerateResource.cache
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana01\ConsoleApp1\OperacionesBasicas\obj\Debug\OperacionesBasicas.csproj.CoreCompileInputs.cache
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana01\ConsoleApp1\OperacionesBasicas\obj\Debug\OperacionesBasicas.exe
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana01\ConsoleApp1\OperacionesBasicas\obj\Debug\OperacionesBasicas.pdb

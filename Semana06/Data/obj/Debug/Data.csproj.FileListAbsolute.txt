@@ -1,0 +1,18 @@
+D:\VisualStudioProjects\Semana06\Data\bin\Debug\Data.dll
+D:\VisualStudioProjects\Semana06\Data\bin\Debug\Data.pdb
+D:\VisualStudioProjects\Semana06\Data\bin\Debug\Entity.dll
+D:\VisualStudioProjects\Semana06\Data\bin\Debug\Entity.pdb
+D:\VisualStudioProjects\Semana06\Data\obj\Debug\Data.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Semana06\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Semana06\Data\obj\Debug\Data.csproj.CopyComplete
+D:\VisualStudioProjects\Semana06\Data\obj\Debug\Data.dll
+D:\VisualStudioProjects\Semana06\Data\obj\Debug\Data.pdb
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Semana06\Data\bin\Debug\Data.dll
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Semana06\Data\bin\Debug\Data.pdb
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Semana06\Data\bin\Debug\Entity.dll
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Semana06\Data\bin\Debug\Entity.pdb
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Semana06\Data\obj\Debug\Data.csprojAssemblyReference.cache
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Semana06\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Semana06\Data\obj\Debug\Data.csproj.CopyComplete
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Semana06\Data\obj\Debug\Data.dll
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Semana06\Data\obj\Debug\Data.pdb

@@ -1,0 +1,7 @@
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana01\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana01\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana01\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana01\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana01\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana01\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana01\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

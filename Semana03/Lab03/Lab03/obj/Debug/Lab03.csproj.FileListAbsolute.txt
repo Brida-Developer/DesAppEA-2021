@@ -1,0 +1,13 @@
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana03\Lab03\Lab03\bin\Debug\Lab03.exe.config
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana03\Lab03\Lab03\bin\Debug\Lab03.exe
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana03\Lab03\Lab03\bin\Debug\Lab03.pdb
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana03\Lab03\Lab03\obj\Debug\Lab03.csprojAssemblyReference.cache
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana03\Lab03\Lab03\obj\Debug\Lab03.Form1.resources
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana03\Lab03\Lab03\obj\Debug\Lab03.Properties.Resources.resources
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana03\Lab03\Lab03\obj\Debug\Lab03.csproj.GenerateResource.cache
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana03\Lab03\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana03\Lab03\Lab03\obj\Debug\Lab03.exe
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana03\Lab03\Lab03\obj\Debug\Lab03.pdb
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana03\Lab03\Lab03\obj\Debug\Lab03.Persona.resources
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana03\Lab03\Lab03\obj\Debug\Lab03.Login1.resources
+D:\6 CICLO Tecsup-2021 I\Desarrollo de Aplicaciones Empresariales Avanzado\Proyectos\Semana03\Lab03\Lab03\obj\Debug\Lab03.MDIParent1.resources
